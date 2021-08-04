@@ -1,0 +1,58 @@
+C:\Users\Windows 10\Desktop\QuanLyThuVien\BUS\bin\Debug\BUS.dll
+C:\Users\Windows 10\Desktop\QuanLyThuVien\BUS\bin\Debug\BUS.pdb
+C:\Users\Windows 10\Desktop\QuanLyThuVien\BUS\bin\Debug\DAL.dll
+C:\Users\Windows 10\Desktop\QuanLyThuVien\BUS\bin\Debug\ET.dll
+C:\Users\Windows 10\Desktop\QuanLyThuVien\BUS\bin\Debug\DAL.pdb
+C:\Users\Windows 10\Desktop\QuanLyThuVien\BUS\bin\Debug\ET.pdb
+C:\Users\Windows 10\Desktop\QuanLyThuVien\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\Windows 10\Desktop\QuanLyThuVien\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\QuanLyThuVien\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Windows 10\Desktop\QuanLyThuVien\BUS\obj\Debug\BUS.dll
+C:\Users\Windows 10\Desktop\QuanLyThuVien\BUS\obj\Debug\BUS.pdb
+G:\Sangt4\Project\QuanLyThuVien\BUS\bin\Debug\BUS.dll
+G:\Sangt4\Project\QuanLyThuVien\BUS\bin\Debug\BUS.pdb
+G:\Sangt4\Project\QuanLyThuVien\BUS\bin\Debug\DAL.dll
+G:\Sangt4\Project\QuanLyThuVien\BUS\bin\Debug\ET.dll
+G:\Sangt4\Project\QuanLyThuVien\BUS\bin\Debug\DAL.pdb
+G:\Sangt4\Project\QuanLyThuVien\BUS\bin\Debug\ET.pdb
+G:\Sangt4\Project\QuanLyThuVien\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+G:\Sangt4\Project\QuanLyThuVien\BUS\obj\Debug\BUS.dll
+G:\Sangt4\Project\QuanLyThuVien\BUS\obj\Debug\BUS.pdb
+F:\Sangt4\Project\QuanLyThuVien\BUS\bin\Debug\BUS.dll
+F:\Sangt4\Project\QuanLyThuVien\BUS\bin\Debug\BUS.pdb
+F:\Sangt4\Project\QuanLyThuVien\BUS\bin\Debug\DAL.dll
+F:\Sangt4\Project\QuanLyThuVien\BUS\bin\Debug\ET.dll
+F:\Sangt4\Project\QuanLyThuVien\BUS\bin\Debug\DAL.pdb
+F:\Sangt4\Project\QuanLyThuVien\BUS\bin\Debug\ET.pdb
+F:\Sangt4\Project\QuanLyThuVien\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+F:\Sangt4\Project\QuanLyThuVien\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+F:\Sangt4\Project\QuanLyThuVien\BUS\obj\Debug\BUS.csproj.CopyComplete
+F:\Sangt4\Project\QuanLyThuVien\BUS\obj\Debug\BUS.dll
+F:\Sangt4\Project\QuanLyThuVien\BUS\obj\Debug\BUS.pdb
+C:\Users\Admin\Desktop\Project\QuanLyThuVien\BUS\bin\Debug\BUS.dll
+C:\Users\Admin\Desktop\Project\QuanLyThuVien\BUS\bin\Debug\BUS.pdb
+C:\Users\Admin\Desktop\Project\QuanLyThuVien\BUS\bin\Debug\DAL.dll
+C:\Users\Admin\Desktop\Project\QuanLyThuVien\BUS\bin\Debug\ET.dll
+C:\Users\Admin\Desktop\Project\QuanLyThuVien\BUS\bin\Debug\DAL.pdb
+C:\Users\Admin\Desktop\Project\QuanLyThuVien\BUS\bin\Debug\ET.pdb
+C:\Users\Admin\Desktop\Project\QuanLyThuVien\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Project\QuanLyThuVien\BUS\obj\Debug\BUS.dll
+C:\Users\Admin\Desktop\Project\QuanLyThuVien\BUS\obj\Debug\BUS.pdb
+C:\Users\Admin\Desktop\Project1\QuanLyThuVien\BUS\bin\Debug\BUS.dll
+C:\Users\Admin\Desktop\Project1\QuanLyThuVien\BUS\bin\Debug\BUS.pdb
+C:\Users\Admin\Desktop\Project1\QuanLyThuVien\BUS\bin\Debug\DAL.dll
+C:\Users\Admin\Desktop\Project1\QuanLyThuVien\BUS\bin\Debug\ET.dll
+C:\Users\Admin\Desktop\Project1\QuanLyThuVien\BUS\bin\Debug\DAL.pdb
+C:\Users\Admin\Desktop\Project1\QuanLyThuVien\BUS\bin\Debug\ET.pdb
+C:\Users\Admin\Desktop\Project1\QuanLyThuVien\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Project1\QuanLyThuVien\BUS\obj\Debug\BUS.dll
+C:\Users\Admin\Desktop\Project1\QuanLyThuVien\BUS\obj\Debug\BUS.pdb
+C:\Users\Admin\Desktop\Project_Nhom7\QuanLyThuVien\BUS\bin\Debug\BUS.dll
+C:\Users\Admin\Desktop\Project_Nhom7\QuanLyThuVien\BUS\bin\Debug\BUS.pdb
+C:\Users\Admin\Desktop\Project_Nhom7\QuanLyThuVien\BUS\bin\Debug\DAL.dll
+C:\Users\Admin\Desktop\Project_Nhom7\QuanLyThuVien\BUS\bin\Debug\ET.dll
+C:\Users\Admin\Desktop\Project_Nhom7\QuanLyThuVien\BUS\bin\Debug\DAL.pdb
+C:\Users\Admin\Desktop\Project_Nhom7\QuanLyThuVien\BUS\bin\Debug\ET.pdb
+C:\Users\Admin\Desktop\Project_Nhom7\QuanLyThuVien\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Project_Nhom7\QuanLyThuVien\BUS\obj\Debug\BUS.dll
+C:\Users\Admin\Desktop\Project_Nhom7\QuanLyThuVien\BUS\obj\Debug\BUS.pdb

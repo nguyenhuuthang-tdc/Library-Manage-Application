@@ -1,0 +1,46 @@
+C:\Users\Windows 10\Desktop\QuanLyThuVien\DAL\bin\Debug\DAL.dll
+C:\Users\Windows 10\Desktop\QuanLyThuVien\DAL\bin\Debug\DAL.pdb
+C:\Users\Windows 10\Desktop\QuanLyThuVien\DAL\bin\Debug\ET.dll
+C:\Users\Windows 10\Desktop\QuanLyThuVien\DAL\bin\Debug\ET.pdb
+C:\Users\Windows 10\Desktop\QuanLyThuVien\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Windows 10\Desktop\QuanLyThuVien\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\QuanLyThuVien\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Windows 10\Desktop\QuanLyThuVien\DAL\obj\Debug\DAL.dll
+C:\Users\Windows 10\Desktop\QuanLyThuVien\DAL\obj\Debug\DAL.pdb
+G:\Sangt4\Project\QuanLyThuVien\DAL\bin\Debug\DAL.dll
+G:\Sangt4\Project\QuanLyThuVien\DAL\bin\Debug\DAL.pdb
+G:\Sangt4\Project\QuanLyThuVien\DAL\bin\Debug\ET.dll
+G:\Sangt4\Project\QuanLyThuVien\DAL\bin\Debug\ET.pdb
+G:\Sangt4\Project\QuanLyThuVien\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+G:\Sangt4\Project\QuanLyThuVien\DAL\obj\Debug\DAL.dll
+G:\Sangt4\Project\QuanLyThuVien\DAL\obj\Debug\DAL.pdb
+F:\Sangt4\Project\QuanLyThuVien\DAL\bin\Debug\DAL.dll
+F:\Sangt4\Project\QuanLyThuVien\DAL\bin\Debug\DAL.pdb
+F:\Sangt4\Project\QuanLyThuVien\DAL\bin\Debug\ET.dll
+F:\Sangt4\Project\QuanLyThuVien\DAL\bin\Debug\ET.pdb
+F:\Sangt4\Project\QuanLyThuVien\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+F:\Sangt4\Project\QuanLyThuVien\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\Sangt4\Project\QuanLyThuVien\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\Sangt4\Project\QuanLyThuVien\DAL\obj\Debug\DAL.dll
+F:\Sangt4\Project\QuanLyThuVien\DAL\obj\Debug\DAL.pdb
+C:\Users\Admin\Desktop\Project\QuanLyThuVien\DAL\bin\Debug\DAL.dll
+C:\Users\Admin\Desktop\Project\QuanLyThuVien\DAL\bin\Debug\DAL.pdb
+C:\Users\Admin\Desktop\Project\QuanLyThuVien\DAL\bin\Debug\ET.dll
+C:\Users\Admin\Desktop\Project\QuanLyThuVien\DAL\bin\Debug\ET.pdb
+C:\Users\Admin\Desktop\Project\QuanLyThuVien\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Project\QuanLyThuVien\DAL\obj\Debug\DAL.dll
+C:\Users\Admin\Desktop\Project\QuanLyThuVien\DAL\obj\Debug\DAL.pdb
+C:\Users\Admin\Desktop\Project1\QuanLyThuVien\DAL\bin\Debug\DAL.dll
+C:\Users\Admin\Desktop\Project1\QuanLyThuVien\DAL\bin\Debug\DAL.pdb
+C:\Users\Admin\Desktop\Project1\QuanLyThuVien\DAL\bin\Debug\ET.dll
+C:\Users\Admin\Desktop\Project1\QuanLyThuVien\DAL\bin\Debug\ET.pdb
+C:\Users\Admin\Desktop\Project1\QuanLyThuVien\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Project1\QuanLyThuVien\DAL\obj\Debug\DAL.dll
+C:\Users\Admin\Desktop\Project1\QuanLyThuVien\DAL\obj\Debug\DAL.pdb
+C:\Users\Admin\Desktop\Project_Nhom7\QuanLyThuVien\DAL\bin\Debug\DAL.dll
+C:\Users\Admin\Desktop\Project_Nhom7\QuanLyThuVien\DAL\bin\Debug\DAL.pdb
+C:\Users\Admin\Desktop\Project_Nhom7\QuanLyThuVien\DAL\bin\Debug\ET.dll
+C:\Users\Admin\Desktop\Project_Nhom7\QuanLyThuVien\DAL\bin\Debug\ET.pdb
+C:\Users\Admin\Desktop\Project_Nhom7\QuanLyThuVien\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Project_Nhom7\QuanLyThuVien\DAL\obj\Debug\DAL.dll
+C:\Users\Admin\Desktop\Project_Nhom7\QuanLyThuVien\DAL\obj\Debug\DAL.pdb
