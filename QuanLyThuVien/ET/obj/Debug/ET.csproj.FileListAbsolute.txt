@@ -24,3 +24,8 @@ C:\Users\Admin\Desktop\Project1\QuanLyThuVien\ET\bin\Debug\ET.dll
 C:\Users\Admin\Desktop\Project1\QuanLyThuVien\ET\bin\Debug\ET.pdb
 C:\Users\Admin\Desktop\Project1\QuanLyThuVien\ET\obj\Debug\ET.dll
 C:\Users\Admin\Desktop\Project1\QuanLyThuVien\ET\obj\Debug\ET.pdb
+C:\Users\Admin\Desktop\Library-Manage-Application\QuanLyThuVien\ET\bin\Debug\ET.dll
+C:\Users\Admin\Desktop\Library-Manage-Application\QuanLyThuVien\ET\bin\Debug\ET.pdb
+C:\Users\Admin\Desktop\Library-Manage-Application\QuanLyThuVien\ET\obj\Debug\ET.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Library-Manage-Application\QuanLyThuVien\ET\obj\Debug\ET.dll
+C:\Users\Admin\Desktop\Library-Manage-Application\QuanLyThuVien\ET\obj\Debug\ET.pdb

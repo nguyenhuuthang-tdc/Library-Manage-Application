@@ -109,6 +109,9 @@ ALTER TABLE Sach
 ADD CONSTRAINT FK_Sach2 FOREIGN KEY (MaNXB) REFERENCES NhaXuatBan(MaNXB)
 GO
 
+INSERT INTO DangNhap
+VALUES ('tiennguvc','Nguyen Minh Tien Oc Cho Vc','12345')
+GO
 
 
 --TABLE BẠN ĐỌC
@@ -352,7 +355,7 @@ GO
 GO
 CREATE PROC sp_FindSach(@key nvarchar(50))
 AS 
-SELECT * FROM SachS
+SELECT * FROM Sach
 WHERE TenSach LIKE '%'+ @key +'%'
 GO
 --TIM KIEM PHIEU MUON

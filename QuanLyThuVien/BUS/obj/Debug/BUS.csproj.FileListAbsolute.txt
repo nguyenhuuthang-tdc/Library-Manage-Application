@@ -56,3 +56,12 @@ C:\Users\Admin\Desktop\Project_Nhom7\QuanLyThuVien\BUS\bin\Debug\ET.pdb
 C:\Users\Admin\Desktop\Project_Nhom7\QuanLyThuVien\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
 C:\Users\Admin\Desktop\Project_Nhom7\QuanLyThuVien\BUS\obj\Debug\BUS.dll
 C:\Users\Admin\Desktop\Project_Nhom7\QuanLyThuVien\BUS\obj\Debug\BUS.pdb
+C:\Users\Admin\Desktop\Library-Manage-Application\QuanLyThuVien\BUS\bin\Debug\BUS.dll
+C:\Users\Admin\Desktop\Library-Manage-Application\QuanLyThuVien\BUS\bin\Debug\BUS.pdb
+C:\Users\Admin\Desktop\Library-Manage-Application\QuanLyThuVien\BUS\bin\Debug\DAL.dll
+C:\Users\Admin\Desktop\Library-Manage-Application\QuanLyThuVien\BUS\bin\Debug\ET.dll
+C:\Users\Admin\Desktop\Library-Manage-Application\QuanLyThuVien\BUS\bin\Debug\DAL.pdb
+C:\Users\Admin\Desktop\Library-Manage-Application\QuanLyThuVien\BUS\bin\Debug\ET.pdb
+C:\Users\Admin\Desktop\Library-Manage-Application\QuanLyThuVien\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Library-Manage-Application\QuanLyThuVien\BUS\obj\Debug\BUS.dll
+C:\Users\Admin\Desktop\Library-Manage-Application\QuanLyThuVien\BUS\obj\Debug\BUS.pdb

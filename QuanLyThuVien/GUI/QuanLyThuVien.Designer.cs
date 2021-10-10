@@ -346,16 +346,16 @@
             this.txtAdmin.AcceptsReturn = true;
             this.txtAdmin.Enabled = false;
             this.txtAdmin.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtAdmin.Location = new System.Drawing.Point(1164, 1);
+            this.txtAdmin.Location = new System.Drawing.Point(1093, 1);
             this.txtAdmin.Name = "txtAdmin";
-            this.txtAdmin.Size = new System.Drawing.Size(180, 26);
+            this.txtAdmin.Size = new System.Drawing.Size(251, 26);
             this.txtAdmin.TabIndex = 24;
             // 
             // lbNameAdmin
             // 
             this.lbNameAdmin.AutoSize = true;
             this.lbNameAdmin.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbNameAdmin.Location = new System.Drawing.Point(1098, 4);
+            this.lbNameAdmin.Location = new System.Drawing.Point(1021, 4);
             this.lbNameAdmin.Name = "lbNameAdmin";
             this.lbNameAdmin.Size = new System.Drawing.Size(66, 20);
             this.lbNameAdmin.TabIndex = 25;

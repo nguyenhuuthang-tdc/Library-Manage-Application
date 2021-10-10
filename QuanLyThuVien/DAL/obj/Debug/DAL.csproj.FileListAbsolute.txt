@@ -44,3 +44,10 @@ C:\Users\Admin\Desktop\Project_Nhom7\QuanLyThuVien\DAL\bin\Debug\ET.pdb
 C:\Users\Admin\Desktop\Project_Nhom7\QuanLyThuVien\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
 C:\Users\Admin\Desktop\Project_Nhom7\QuanLyThuVien\DAL\obj\Debug\DAL.dll
 C:\Users\Admin\Desktop\Project_Nhom7\QuanLyThuVien\DAL\obj\Debug\DAL.pdb
+C:\Users\Admin\Desktop\Library-Manage-Application\QuanLyThuVien\DAL\bin\Debug\DAL.dll
+C:\Users\Admin\Desktop\Library-Manage-Application\QuanLyThuVien\DAL\bin\Debug\DAL.pdb
+C:\Users\Admin\Desktop\Library-Manage-Application\QuanLyThuVien\DAL\bin\Debug\ET.dll
+C:\Users\Admin\Desktop\Library-Manage-Application\QuanLyThuVien\DAL\bin\Debug\ET.pdb
+C:\Users\Admin\Desktop\Library-Manage-Application\QuanLyThuVien\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Library-Manage-Application\QuanLyThuVien\DAL\obj\Debug\DAL.dll
+C:\Users\Admin\Desktop\Library-Manage-Application\QuanLyThuVien\DAL\obj\Debug\DAL.pdb
